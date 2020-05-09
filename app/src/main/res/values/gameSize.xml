@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="game_size_row">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <integer-array name="game_size_col">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+    </integer-array>
+    <integer-array name="mines_num">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </integer-array>
+
+    <integer name="default_num_mines">6</integer>
+    <integer name="default_row">4</integer>
+    <integer name="default_col">6</integer>
+
+</resources>

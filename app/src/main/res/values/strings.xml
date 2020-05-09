@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mine Seeker</string>
+    <string name="rows_by">"%1$d rows by %2$d colums."</string>
+    <string name="num_mines">"%1$d mines"</string>
+    <string name="author_zhiqi_qiao_http_www2_cs_sfu_ca_coursecentral_276_bfraser">Author: Zhiqi Qiao http://www2.cs.sfu.ca/CourseCentral/276/bfraser/</string>
+    <string name="theme_this_game_is_help_find_the_mines_in_field_when_you_click_on_a_button_it_could_be_a_mine_or_show_how_many_mines_are_there_in_this_row_and_colume">Theme: This game is help find the mines in field, when you click on a button, it could be a mine or show how many mines are there in this row and colume.</string>
+    <string name="citation_https_commons_wikimedia_org_wiki_crystal_clear_media_file_crystal_clear_app_virus_detected_png">Citation: https://commons.wikimedia.org/wiki/Crystal_Clear#/media/File:Crystal_Clear_app_virus_detected.png</string>
+    <string name="back">BACK</string>
+    <string name="citation_button_picture_https_commons_wikimedia_org_wiki_crystal_clear_media_file_crystal_clear_app_virus_detected_png_background_picture_http_imgsave_me_img_welcome_page_image_http_588ku_com_image_dilei_html">Citation: button picture: https://commons.wikimedia.org/wiki/Crystal_Clear#/media/File:Crystal_Clear_app_virus_detected.png background picture: http://imgsave.me/img/ welcome page image: http://588ku.com/image/dilei.html</string>
+    <string name="theme_dangerous_there_are_mines_in_the_field_you_need_to_find_them_all_to_be_able_to_pass_through_this_field_when_you_click_on_a_button_the_number_shows_the_total_number_of_mines_in_this_row_and_colume_when_find_a_mine_it_will_show">Theme: Dangerous! There are mines in the field, you need to find them all to be able to pass through this field. When you click on a button, the number shows the total number of mines in this row and colume. When find a mine, it will show.</string>
+    <string name="start_game">START GAME</string>
+    <string name="options">OPTIONS</string>
+    <string name="help">HELP</string>
+    <string name="found_0_of_d_mine">Found 0 of %d mine.</string>
+    <string name="scans_used_0"># Scans used: 0</string>
+    <string name="ok">OK</string>
+    <string name="mine_seeking">Mine Seeking</string>
+    <string name="author_zhiqi_qiao">Author: Zhiqi Qiao</string>
+    <string name="skip">SKIP</string>
+    <string name="you_found_all_the_mines">You found all the mines!!</string>
+</resources>
